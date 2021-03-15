@@ -1,2 +1,2 @@
 # Unity_Hex_Tiles
-Hex titles for Unity game
+ Hex tile game in Unity
